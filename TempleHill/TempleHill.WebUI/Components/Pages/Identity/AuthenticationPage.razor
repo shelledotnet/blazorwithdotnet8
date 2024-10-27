@@ -1,0 +1,36 @@
+﻿@page "/"
+
+@code {
+    [CascadingParameter]
+    public Task<AuthenticationState>? ClientAuthState { get; set; } 
+    //Provides information about the currently authenticated user, if any.
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            //this guy set up the admin(if admin is there it will skip it)
+            //..its like a database seeding it create once and for all
+            await accountService.SetUpAsync();
+
+            //if the login person is authenticated is true ? home page : login page
+            if ((await ClientAuthState!).User.Identity!.IsAuthenticated == true)
+                NavManager.NavigateTo("app/home", false, true);
+            else
+                NavManager.NavigateTo("Account/login", false, true);
+
+    
+        }
+        catch
+        {
+    
+            NavManager.NavigateTo("Account/login", false, true);
+
+    
+    
+        }
+
+    }
+
+}
