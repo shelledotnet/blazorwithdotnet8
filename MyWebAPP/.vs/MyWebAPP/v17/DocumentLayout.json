@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\shelle\\C#Project\\MyWebAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE0DB8-DF81-46F8-B93E-0582C5DC0AEF}|MyWebAPP\\MyWebAPP.csproj|c:\\users\\dell\\desktop\\shelle\\c#project\\mywebapp\\mywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BE0DB8-DF81-46F8-B93E-0582C5DC0AEF}|MyWebAPP\\MyWebAPP.csproj|solutionrelative:mywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE0DB8-DF81-46F8-B93E-0582C5DC0AEF}|MyWebAPP\\MyWebAPP.csproj|c:\\users\\dell\\desktop\\shelle\\c#project\\mywebapp\\mywebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56BE0DB8-DF81-46F8-B93E-0582C5DC0AEF}|MyWebAPP\\MyWebAPP.csproj|solutionrelative:mywebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE0DB8-DF81-46F8-B93E-0582C5DC0AEF}|MyWebAPP\\MyWebAPP.csproj|c:\\users\\dell\\desktop\\shelle\\c#project\\mywebapp\\mywebapp\\mywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56BE0DB8-DF81-46F8-B93E-0582C5DC0AEF}|MyWebAPP\\MyWebAPP.csproj|solutionrelative:mywebapp\\mywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\shelle\\C#Project\\MyWebAPP\\MyWebAPP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyWebAPP\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\shelle\\C#Project\\MyWebAPP\\MyWebAPP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyWebAPP\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T22:29:18.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\shelle\\C#Project\\MyWebAPP\\MyWebAPP\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\shelle\\C#Project\\MyWebAPP\\MyWebAPP\\Program.cs",
+              "RelativeToolTip": "MyWebAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:24:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWebAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\shelle\\C#Project\\MyWebAPP\\MyWebAPP\\MyWebAPP.csproj",
+              "RelativeDocumentMoniker": "MyWebAPP\\MyWebAPP.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\shelle\\C#Project\\MyWebAPP\\MyWebAPP\\MyWebAPP.csproj",
+              "RelativeToolTip": "MyWebAPP\\MyWebAPP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T22:19:39.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

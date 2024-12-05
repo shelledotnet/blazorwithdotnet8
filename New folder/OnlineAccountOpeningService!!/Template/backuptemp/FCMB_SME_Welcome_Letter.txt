@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!-- saved from url=(0133)file:///Users/TISV_Olisa/Desktop/MailsToGo_DM/FCMB%20SME%20Welcome%20Letter_updt_v_17718/FCMB%20SME%20Welcome%20Letter_updt_18719.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>FCMB SME Welcome Letter</title>
+<style type="text/css">
+a:link {
+	color: #5D2684;
+	font-weight: normal;
+}
+body,td,th {
+	font-family: Corbel;
+}
+body {
+	background-color: #FFFFFF;
+}
+</style>
+</head>
+
+<body>
+<table width="650" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody>
+    <tr>
+      <td valign="top"><table border="0" width="650" cellpadding="0" cellspacing="0" align="center">
+				<tbody><tr style="background-color:#FFFFFF;">
+					<td bgcolor="#FFFFFF" style="vertical-align:top;"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/SME_Welcome%20letter.jpg" alt="Welcome to FCMB" width="638" height="461" border="0" style="display:block;"></td>
+				</tr>
+                	<tr>
+					<td style="vertical-align:top;"></td>
+				</tr>
+			</tbody></table>
+		<table width="590" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tbody><tr>
+        <td width="580" valign="top" style="padding-bottom: 10px; font-family: Corbel; color: #666666; font-style: normal; font-weight: normal;"><p><span style="color: #58595b; font-size: 12px; font-family: Corbel; line-height: 20px; margin-bottom: 20px;"><br>
+          </span></p>
+          <p>Dear {Customer_name},<br>
+            <br>
+            We are pleased to&nbsp;<strong>welcome</strong>&nbsp;you to FCMB.<u></u><u></u></p>
+          <p><u></u><span style="color: #5D2684">Your Account Number is</span>&nbsp;<strong style="color: #5E2785">{AccountNumber}</strong><br>
+            <br>
+            Our goal is to bring your business ambitions to reality.<br>
+            <br>
+            As a new customer, you will enjoy the following for 3-months:</p>
+          <table width="100%" border="0" cellpadding="8" cellspacing="8">
+            <tbody>
+              <tr bgcolor="#ECE6F6">
+                <td width="6%" bgcolor="#F6DAEF">1.</td>
+                <td width="94%">Zero account maintenance fee</td>
+                </tr>
+              <tr bgcolor="#ECE6F6">
+                <td bgcolor="#F6DAEF">2.</td>
+                <td>Free cheque book</td>
+                </tr>
+              <tr bgcolor="#ECE6F6">
+                <td bgcolor="#F6DAEF">3.</td>
+                <td>Zero charge on draft issuance, counter cheques and account statement</td>
+                </tr>
+              <tr bgcolor="#ECE6F6">
+                <td bgcolor="#F6DAEF">4.</td>
+                <td>90% discount on mobile and online transfer charges</td>
+                </tr>
+                 <tr bgcolor="#ECE6F6">
+                <td bgcolor="#F6DAEF">5.</td>
+                <td>50%  discount on cost of  Business Debit Card</td>
+                </tr>
+            </tbody>
+        </table>
+          <p>For other convenient ways to bank, please click&nbsp;on the icons below;</p>
+          <table width="100%" border="0" cellspacing="5" cellpadding="5">
+            <tbody>
+              <tr bgcolor="#EEDAF2">
+                <td width="18%" style="text-align: center"><a href="http://on.fcmb.com/CardRequestDM"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/FCMB_DebitCard.png" width="90" height="99" alt=""></a></td>
+                <td width="18%" style="text-align: center"><a href="http://on.fcmb.com/mCashDM"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/MCash.png" width="90" height="99" alt=""></a></td>
+                <td width="18%" style="text-align: center"><a href="https://www.fcmb.com/FCMB-business-app"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/Cheque_bk_Icon.png" width="90" height="99" alt=""></a></td>
+                </tr>
+              <tr bgcolor="#EEDAF2">
+                <td style="text-align: center"><span style="text-align: center; font-size: smaller; font-weight: bold;">FCMB Debit card- Complete online; pick up at any FCMB Branch</span></td>
+                <td style="text-align: center; font-size: smaller; font-weight: bold;">Mcash - Complete and submit at any FCMB branch</td>
+                <td style="text-align: center; font-size: smaller; font-weight: bold;">FCMB Cheque Book – Pick up a Free Cheque Book at any FCMB branch</td>
+                </tr>
+            </tbody>
+      </table>
+          <br>
+          <table width="100%" border="0" cellspacing="5" cellpadding="5">
+            <tbody>
+              <tr>
+                <td width="23%" align="center" bgcolor="#EEDBF2"><a href="http://onlineaccount.fcmb.com/business/registration/returning"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/fcmb-icon-doc-upload.png" width="90" height="87" alt=""></a></td>
+                <td width="24%" align="center" bgcolor="#EEDBF2"><a href="http://onlineaccount.fcmb.com/business/registration/returning"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/fcmb-icon-fund-transfer.png" width="90" height="84" alt=""></a></td>
+                <td width="24%" align="center" bgcolor="#EEDBF2"><a href="http://on.fcmb.com/CardRequestDM"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/fcmb-icon-signatory.png" width="90" height="87" alt=""></a></td>
+                <td width="29%" align="center" bgcolor="#EEDBF2"><a href="http://on.fcmb.com/CardRequestDM"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/fcmb-icon-signatory-multp.png" width="90" height="87" alt=""></a></td>
+              </tr>
+              <tr>
+                <td align="center" bgcolor="#EEDBF2"><span style="text-align: center; font-size: smaller; font-weight: bold;">Click here to upload your  pending documents</span></td>
+                <td align="center" bgcolor="#EEDBF2"><span style="text-align: center; font-size: smaller; font-weight: bold;">To transfer funds seamless to your account, please click here</span></td>
+                <td align="center" bgcolor="#EEDBF2"><span style="text-align: center; font-size: smaller; font-weight: bold;">Single Signatory - click<a href="http://on.fcmb.com/BusinessAppDM"> here</a> to download the BusinessAPP)</span></td>
+                <td align="center" bgcolor="#EEDBF2"><span style="font-size: smaller; font-weight: bold; text-align: center;">Not a Single<br>
+Signatory Account? Click <a href="http://www.fcmb.com/sites/default/files/FCMB%20Business%20Version%20Online%20Banking%20Application%20Form.pdf">here </a>to complete application form and submit at any branch</span></td>
+              </tr>
+            </tbody>
+        </table>
+          <p>You will also receive information on our exciting offers and promos via email and&nbsp;SMS.<u></u><u></u></p>
+          <p><u></u><br>
+            Thank you for choosing FCMB<u></u><u></u></p>
+          <p><u></u></p>
+          <p><span style="font-weight: normal; color: #5E2785;">Welcome to a world of Opportunity.</span><br>
+            <br>
+            <br>
+            Yours Sincerely,&nbsp;<br>
+            <strong> First City Monument Bank</strong><u></u><br>
+            <br>
+            <br>
+            <span style="font-size: 14px">Terms and Conditions Apply.</span> </p></td>
+        </tr>
+    </tbody></table></td>
+    </tr>
+    <tr>
+      <td valign="top" class="footer"><p><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/my-bank-bar.jpg" width="650" height="51" alt="" style="display:block;"></p></td>
+    </tr>
+    <tr>
+      <td valign="top" class="footer"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom:#dad9dc solid 1px;">
+        <tbody>
+          <tr>
+            <td width="31%" valign="top">&nbsp;</td>
+            <td width="8%" valign="top"><a href="https://www.facebook.com/fcmbmybank"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/fb_nw_.png" width="52" height="52" alt="" border="0"></a></td>
+            <td width="32%" valign="top"><a href="https://twitter.com/myfcmb"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/twt_nw_.png" width="52" height="52" alt="" border="0"></a><a href="http://www.linkedin.com/company/first-city-monument-bank-ltd?trk=tyah"><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/LkdIn_nw_.png" width="52" height="52" alt="" border="0"></a><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/Ig_nw_.png" width="52" height="52" alt=""><img src="http://image.fcmb.com/images/FCMB_OAO_SME_Welcome_Letter/WA_nw_.png" width="52" height="52" alt=""></td>
+            <td width="29%" valign="top"><a href="http://www.linkedin.com/company/first-city-monument-bank-ltd?trk=tyah"></a><a href="https://www.instagram.com/myfcmb/https://www.instagram.com/myfcmb/"></a><br></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr>
+      <td valign="top" class="footer" style="border-bottom:#dad9dc solid 1px;"><table width="574" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tbody>
+          <tr>
+            <td valign="top" bgcolor="#FFFFFF" style="padding: 20px 0 20px 0; text-align: center; font-family: Corbel; font-size: larger; font-weight: lighter; font-style: normal;"><span style="font-size: 10pt;"><font color="#9297a3">If you have reason to
+suspect any unauthorised activity on your account<br style="font-family: Corbel;">
+please contact us by
+sending an email to</font><font style="font-family: Corbel;" color="#ffb81c">&nbsp;</font></span><span style="font-size: 10pt; color: rgb(87, 87, 86); font-family: Corbel;"><a target="_blank" style="color: #5E2186; text-decoration: underline; font-family: Corbel;" href="mailto:frauddesk@fcmb.com">frauddesk@fcmb.com</a></span> <span style="color: #666666; font-size: 10pt;">with your reference number: xxxxxx</span><br>
+<br>
+<font color="#9297a3"><span style="font-size: 10pt;">For more information
+on our products and services, please call our 24/7 <br>
+contact centre on</span></font><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span> <font color="#5c068c"> <span style="font-size: 10pt;"> 07003290000</span></font><span style="font-size: 10pt; color: rgb(92, 6, 140);"> or&nbsp;012798800</span><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span> <font color="#9297a3"> <span style="font-size: 10pt;">or chat with us via</span></font><span style="font-size: 10pt;"><br>
+</span><font color="#5c068c"> <span style="font-size: 10pt;">Whatsapp on (+234) 090 999 99814</span></font><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span> <font color="#9297a3"> <span style="font-size: 10pt;"> or</span></font><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span><font color="#5c068c"> <span style="font-size: 10pt;">&nbsp;(+234) 090 999
+99815.</span></font><span style="font-size: 10pt;"><font color="#efefef"><br>
+</font><font color="#9297a3">Alternatively send an email to</font> </span> <span style="color: rgb(92, 6, 140); text-decoration: none; font-size: 10pt;"> <a target="_blank" style="color: rgb(98, 35, 135); text-decoration: underline;" href="mailto:customerservice@fcmb.com">customerservice@fcmb.com</a></span><font color="#5c068c"><span style="font-size: 10pt;"><a target="_blank" style="color: rgb(98, 35, 135); text-decoration: underline;" href="mailto:customerservice@fcmb.com"><img src="http://norefresh.thesparxitsolutions.com/PIYUSH/Inhouse/spriteApp/layout6/html/images/blank.gif" height="1" width="1"></a>.</span></font><br>
+                  <br>
+                  <span style="text-align: center; width: 638px; color: #666666; font-size: small; font-family: Corbel;">Copyright
+© 2018. First
+City Monument Bank<br>
+                  </span></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+</body></html>

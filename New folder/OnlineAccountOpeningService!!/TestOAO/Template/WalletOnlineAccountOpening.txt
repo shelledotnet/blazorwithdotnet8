@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!-- saved from url=(0117)file:///Users/TISV_Olisa/Documents/TISV_ACCOUNTS_RCV_1017/FCMB/FCMB_PurpleMailers-on-the-go/PURPLE%20MAIL_F2/OAO.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>FCMB_Online Account Opening</title>
+<style type="text/css">
+a:link {
+	color: #5D2684;
+	font-weight: normal;
+}
+body,td,th {
+    font-family: Corbel;
+    font-size: 12pt;
+    color: #000000;
+}
+body {
+	background-color: #FBFBFB;
+}
+</style>
+</head>
+
+<body text="#000000">
+<table width="650" cellspacing="0" cellpadding="0" border="0" background="file:///Users/TISV_Olisa/Documents/TISV_ACCOUNTS_RCV_1017/FCMB/FCMB_PurpleMailers-on-the-go/PURPLE%20MAIL_F2/e3e3e3" align="center">
+  <tbody>
+    <tr>
+      <td valign="top" bgcolor="#FEFEFE"><table width="650" cellspacing="0" cellpadding="0" border="0" align="center">
+				<tbody><tr style="background-color:#FFFFFF;">
+					<td style="vertical-align:top;" bgcolor="#FFFFFF"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/OnlineAccountOpening_.jpg" alt="Telex Copy  Notification" style="display:block;" width="640" height="437" border="0"></td>
+				</tr>
+                	<tr>
+					<td style="vertical-align:top;"></td>
+				</tr>
+			</tbody></table>
+		<table width="590" cellspacing="0" cellpadding="0" border="0" align="center">
+      <tbody><tr>
+        <td style="padding-bottom: 10px; font-family: Corbel; ; font-style: normal; font-weight: lighter;" width="580" valign="top"><p>Dear {Customer_name},</p>
+          <p>Thank you for opening an FCMB Easy Account. Your Account Number is {AccountNumber} (the last 10 digits of your phone number).<br>
+            &nbsp;<br>
+            Our range of products and services are thoughtfully designed
+ to suit your lifestyle and make banking more convenient for you.</p>
+          <p>Please note that the maximum amount you can deposit at a 
+time into your account is N50,000&nbsp;per transaction&nbsp;and your 
+account only allows a maximum balance of N300,000.<br>
+            <br>
+            <span>If you would like to do more with your account, please visit any FCMB branch with your <strong>Valid ID</strong>, <strong>Utility bill</strong> and <strong>BVN</strong> to increase your limit. If you do not have a BVN, you can enrol at any FCMB branch.</span></p>
+          <hr width="90%" align="center">
+          <p><strong style="color: #5E2785">            What's next?</strong></p>
+          <strong>» </strong>Deposit money into your account using any of these:
+          <ul type="disc">
+            <li style="color: #5E2785"><strong>Receive&nbsp;transfer; just input your account number then select Easy account on the transfer menu.</strong></li>
+            <li style="color: #5E2785"><strong>Visit any FCMB branch or Agent location to make cash deposit</strong></li>
+          </ul>
+          <strong>» </strong>Pick up your instant Debit Card at any FCMB branch.&nbsp; Click <a href="https://www.fcmb.com/our-branch-network">here</a> to find your nearest branch <br>
+          <hr width="90%" align="center">
+<strong><span style="color: #5E2785">Bank conveniently on the go by using any of our 24/7 alternate channels:</span></strong>
+          <table width="50%" cellspacing="5" cellpadding="5" border="0">
+            <tbody>
+              <tr>
+                <td width="24%" height="98"><a href="https://ibank.fcmb.com/Individual-Banking.aspx"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/FCMB_329_ico.png" alt="" width="80" height="88"></a></td>
+                <td width="27%" valign="top"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/POS_icon.png" alt="" width="80" height="75"></td>
+                <td width="49%"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/atm_ico.png" alt="" width="80" height="88"></td>
+                </tr>
+            </tbody>
+          </table>
+          <p><strong><span style="color: #5E2785">Welcome to a World of Opportunity and Convenience!</span></strong><br>
+            <br>
+          </p>
+          <p>&nbsp;Yours Sincerely,&nbsp;<br>
+            <br>
+            <strong>For First City Monument Bank</strong><br>
+            Group Head, Service Management.<br>
+          </p></td>
+        </tr>
+    </tbody></table></td>
+    </tr>
+    <tr>
+      <td class="footer" valign="top"><p><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/my-bank-bar.jpg" alt="" style="display:block;" width="650" height="51"></p></td>
+    </tr>
+    <tr>
+      <td class="footer" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <td width="31%" valign="top">&nbsp;</td>
+            <td width="8%" valign="top"><a href="https://www.facebook.com/fcmbmybank"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/fb_nw_.png" alt="" width="52" height="52" border="0"></a></td>
+            <td width="32%" valign="top"><a href="https://twitter.com/myfcmb"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/twt_nw_.png" alt="" width="52" height="52" border="0"></a><a href="http://www.linkedin.com/company/first-city-monument-bank-ltd?trk=tyah"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/LkdIn_nw_.png" alt="" width="52" height="52" border="0"></a><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/Ig_nw_.png" alt="" width="52" height="52"><img src="http://image.fcmb.com/images/2FCMB_OnlineAccountOpening_files/WA_nw_.png" alt="" width="52" height="52"></td>
+            <td width="29%" valign="top" bgcolor="#FBFBFB"><p><a href="http://www.linkedin.com/company/first-city-monument-bank-ltd?trk=tyah"></a><a href="https://www.instagram.com/myfcmb/https://www.instagram.com/myfcmb/"></a></p>
+              <p><br>
+              </p></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr>
+      <td class="footer" valign="top"><table width="650" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tbody>
+          <tr>
+            <td style="padding: 20px 0 20px 0; text-align: center; font-family: Corbel; font-size: larger; font-weight: lighter; font-style: normal;" valign="top" bgcolor="#FFFFFF"><span style="text-align: center; width: 638px; color: #666666; font-size: small; font-family: Corbel;"><span style="font-size: 10pt;"><font color="#9297a3">If you have reason to
+suspect any unauthorised activity on your account<br style="font-family: Corbel;">
+please contact us by
+sending an email to</font><font style="font-family: Corbel;" color="#ffb81c">&nbsp;</font></span><span style="font-size: 10pt; color: rgb(87, 87, 86); font-family: Corbel;"><a target="_blank" style="color: #5E2186; text-decoration: underline; font-family: Corbel;" href="mailto:frauddesk@fcmb.com">frauddesk@fcmb.com</a></span><br>
+<br>
+<font color="#5c068c"><span style="font-size: 10pt;"><font color="#9297a3">For more information
+on our products and services, please call our 24/7 <br>
+contact centre on</font><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span> <font color="#5c068c"> 07003290000</font><span style="font-size: 10pt; color: rgb(92, 6, 140);"> or&nbsp;012798800</span><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span> <font color="#9297a3"> or chat with <strong>Temi via&nbsp;&nbsp;<a href="http://m.me/fcmbtemi" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://m.me/fcmbtemi&amp;source=gmail&amp;ust=1545307712033000&amp;usg=AFQjCNEv7WEl734Yq6BmBoo-MM1QcaTKCg">http://m.me/fcmbtemi</a></strong>,</font><br>
+<font color="#5c068c"> Whatsapp on (+234) 090 999 99814</font><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span> <font color="#9297a3"> or</font><span style="font-size: 10pt; color: rgb(239, 239, 239);"> </span><font color="#5c068c"> &nbsp;(+234) 090 999
+99815.</font><font color="#efefef"><br>
+</font><font color="#9297a3">Alternatively send an email to</font> <span style="color: rgb(92, 6, 140); text-decoration: none; font-size: 10pt;"> <a target="_blank" style="color: rgb(98, 35, 135); text-decoration: underline;" href="mailto:customerservice@fcmb.com">customerservice@fcmb.com</a></span><font color="#5c068c"><a target="_blank" style="color: rgb(98, 35, 135); text-decoration: underline;" href="mailto:customerservice@fcmb.com"><img src="file:///Users/TISV_Olisa/Documents/TISV_ACCOUNTS_RCV_1017/FCMB/FCMB_PurpleMailers-on-the-go/PURPLE%20MAIL_F2/Opportunity%20Network-Email/Dispense%20Error-_files/blank.gif" width="1" height="1"></a></font>..</span></font><br>
+<br>
+Copyright
+© 2019. First
+City Monument Bank<br>
+                  </span></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+</body></html>

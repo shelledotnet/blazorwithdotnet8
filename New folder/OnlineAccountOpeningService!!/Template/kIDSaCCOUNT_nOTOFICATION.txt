@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0127)file:///Z:/designtisv/Documents/TISV%20ACCOUNTS/FCMB/FCMB_PurpleMailers-on-the-go/PURPLE%20MAILERS/kIDSaCCOUNT_nOTOFICATION.htm -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-find="_22"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Content-Language" content="en-us">
+		
+		<!-- #BeginEditable "doctitle" -->
+		<title> </title>
+		<!-- #EndEditable -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<link href="http://image.fcmb.com/images/FCMB New Account Opened/css" rel="stylesheet" type="text/css">
+		<link href="http://image.fcmb.com/images/FCMB New Account Opened/css(1)" rel="stylesheet" type="text/css">
+		<style type="text/css">
+		
+			/* GENERAL STYLE RESETS */			
+			
+			.button {background-color: #C9ACD9;
+			/*adjust the roundness*/
+			border-radius: 4px;
+			moz-border-radius: 4px;
+			webkit-border-radius: 4px;
+			/*adjust height and width*/
+			
+			width:350px; 
+			/*change border colour*/
+			border:0px #245ec6 solid;
+			colour: #5C068C;
+}
+
+
+			.ExternalClass {
+				width: 100%;
+				background-color: #d9d9d9;
+			}
+
+			body {
+				font-size: 13px;
+				line-height: 1;
+				background-color: #d9d9d9;
+				margin: 0;
+				padding: 0;
+				-webkit-font-smoothing: antialiased;
+				font-family: Helvetica, Arial, sans-serif;
+				-webkit-text-size-adjust: 100%;
+				-ms-text-size-adjust: 100%;
+			}
+			#bodyTable {
+				height: 100% !important;
+				margin: 0;
+				padding: 0;
+				width: 100% !important;
+			}
+			table {
+				border-collapse: collapse;
+				mso-table-lspace: 0pt;
+				mso-table-rspace: 0pt;
+				border-spacing: 0;
+				-webkit-text-size-adjust: 100%;
+				-ms-text-size-adjust: 100%;
+			}
+			td, td a {
+				color: #00d5c3;
+				text-decoration: none;
+			}
+			td {
+				font-size: 14px;
+				line-height: 1;
+			}
+			img {
+				border: none;
+				outline: none;
+				text-decoration: none;
+				display: inline-block;
+				height: auto
+			}
+			p {
+				margin: 0;
+				padding: 0;
+			}
+			a:hover, td a:hover {
+				outline: none;
+			}
+
+			.bannerImg {
+				width: 100% !important;
+				max-width: 544px !important;
+				height: auto;
+			}
+			
+			.hide {
+				display: none;
+			}
+			
+			@media only screen and (max-width: 639px) {
+				body[yahoo] .wrapper {
+					width: 100% !important;
+				}
+				body[yahoo] .float-right {
+					float: none !important;
+				}
+				body[yahoo] .side-less-space {
+					width: 15px !important;
+				}
+				body[yahoo] .hide-space {
+					display: none !important;
+				}
+				body[yahoo] .align-center {
+					text-align: center !important;
+				}
+				body[yahoo] .less-font1 {
+					font-size: 25px !important;
+				}
+			}
+
+			@media only screen and (max-width: 599px) {
+				
+				body[yahoo] .hide-space2 {
+					display: none !important;
+				}
+				body[yahoo] .max-width {
+					max-width: 600px !important;
+				}
+				body[yahoo] .inc-width {
+					width: 600px !important;
+				}
+				body[yahoo] .img-resize {
+					width: 100% !important;
+					height: auto !important;
+				}
+				body[yahoo] .dec-height {
+					height: 40px !important;
+				}
+				body[yahoo] .width-auto {
+					width: auto !important;
+				}
+				body[yahoo] .bg-none {
+					background-image: inherit !important;
+				}
+				body[yahoo] .dec-space1 {
+					width:20px !important;	
+				}
+			}
+			
+			@media only screen and (max-width: 479px){
+				body[yahoo] .max-width2 {
+					max-width: 600px !important;
+				}
+				body[yahoo] .dec-space {
+					width:20px !important;	
+				}
+				body[yahoo] .wrapper1 {
+					width: 100% !important;
+				}
+			}
+
+		</style>
+		<!--[if (gte mso 9)|(IE)]>
+		<style type="text/css">
+		table {border-collapse: collapse;}
+		</style>
+		<![endif]-->
+		
+	</head>
+	<body style="font-size: 14px; background-color: #EFEFEF;margin: 0; width:100% !important" yahoo="fix" data-find="_21">
+	
+		<modules data-find="_20">
+		<module label="sec1" data-find="_19">
+					<!-- row1 end-->
+
+					<!-- row 2 -->
+					<module label="sec2">
+					<table class="wrapper" width="640" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr>
+						<td style="background-color: #4d5568">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+							<tbody><tr>
+								<td style="background-color: #38404e;" valign="top">
+								<table cellpadding="0" cellspacing="0" border="0" width="100%">
+									<tbody><tr>
+										<td>
+										<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+											<tbody><tr>
+												<td>
+												<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+													<tbody><tr>
+
+														<td>
+														<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+															<tbody><tr>
+																<td class="less-height" height="24" bgcolor="#F1F1F1">
+																<p align="center">
+																<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif"><img border="0" src="http://image.fcmb.com/images/FCMB New Account Opened/Kids_Account_Notification_2.jpg" width="638" height="461"></p></td>
+															</tr>
+
+															</tbody></table></td>
+
+													</tr>
+												</tbody></table></td>
+											</tr>
+										</tbody></table></td>
+
+									</tr>
+								</tbody></table></td>
+							</tr>
+						</tbody></table></td>
+					</tr>
+					</tbody></table>
+					</module>
+					<!-- row 2 end-->
+
+					<!-- row 3 -->
+					<module label="sec3" data-find="_18">
+					<table class="wrapper" width="640" border="0" cellspacing="0" cellpadding="0" align="center" data-find="_17">
+					<tbody data-find="_16"><tr data-find="_15">
+						<td style="background-color: #ffffff" data-find="_14">
+						<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" data-find="_13">
+							<tbody data-find="_12"><tr data-find="_11">
+
+								<td data-find="_10">
+								<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" data-find="_9">
+
+									<tbody data-find="_8"><tr>
+										<td>
+										<!-- bg.cm end --></td>
+									</tr>
+									<tr>
+										<td>
+										<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" height="18">
+											<tbody><tr>
+												<td width="20">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></td>
+												<td height="18">
+												</td>
+												<td width="20">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></td>
+											</tr>
+										</tbody></table></td>
+
+									</tr>
+									<tr>
+										<td>
+										<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+											<tbody><tr>
+
+												<td width="20">
+												<p style="line-height: 150%">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></p></td>
+												<td style="font-family: &#39;open sans&#39;, sans-serif;font-size: 30px;text-align:center;color:#646e83;">
+												<table border="0" width="100%" id="table12" height="41" style="border-collapse: collapse; border-spacing: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%">
+													<tbody><tr>
+														<td style="color: #00d5c3; text-decoration: none" bgcolor="#5C068C" valign="middle">
+														<p style="text-align: center; line-height:200%">
+														<font size="5" color="#FFC41C" face="Corbel">Kids Account Notification</font></p></td>
+													</tr>
+												</tbody></table>
+												</td>
+												<td width="20">
+												<p style="line-height: 150%">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></p></td>
+											</tr>
+										</tbody></table></td>
+
+									</tr>
+									<tr>
+										<td height="15">
+										<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></td>
+									</tr>
+									<tr data-find="_7">
+										<td data-find="_6">
+										<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" data-find="_5">
+											<tbody data-find="_4"><tr data-find="_3">
+
+												<td width="61">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></td>
+												<td style="font-family: &#39;Open Sans&#39;, sans-serif;font-size:14px;color:#9297a3;text-align:center;line-height: 23px;" data-find="_2">
+												<p style="text-align: left" data-find="_1">
+												<font color="#696969"><font face="Corbel" size="3">Dear {Customer_name},<br>
+												<br>
+												Thank you for submitting your application to open an FCMB Kids Account.<br>
+												<br>
+												However we are currently unable to complete your account opening because you are already an existing customer of FCMB.<br>
+												<br>
+												To open an additional account with us, please visit the nearest FCMB branch.<br>
+												<br>
+													If you are not already registered on FCMBOnline, please click <a href="https://ibank.fcmb.com/Individual-Banking.aspx">here</a> to get registered and start enjoying the benefits of internet banking. <br>
+												<br>
+												Thank you for choosing FCMB</font><br>
+												&nbsp;</font></p></td>
+												<td width="56">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></td>
+											</tr>
+										</tbody></table></td>
+									</tr>
+									<tr>
+										<td>
+										<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+											<tbody><tr>
+
+												<td width="19">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></td>
+												<td height="27">
+														<hr size="1" noshade="" color="#EFEFEF">
+										<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-spacing: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%" id="table5">
+											<tbody><tr>
+
+												<td style="font-family: &#39;Open Sans&#39;, sans-serif;font-size:14px;color:#9297a3;text-align:center;line-height: 23px; text-decoration:none">
+											&nbsp;</td>
+											</tr>
+										</tbody></table></td>
+												<td width="20">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/blank.gif" height="1" width="1"></td>
+											</tr>
+										</tbody></table></td>
+									</tr>
+
+									</tbody></table></td>
+
+							</tr>
+						</tbody></table></td>
+					</tr>
+					</tbody></table>
+					</module>
+
+					<module label="sec9">
+						<table class="wrapper" width="640" border="0" cellspacing="0" cellpadding="0" align="center">
+							<tbody><tr>
+								<td style="background-color: #303745">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+									<tbody><tr>
+								<td bgcolor="#5D2784" style="background-image:url(&#39;&#39;); background-repeat:repeat-y" background="http://image.fcmb.com/images/FCMB New Account Opened/foot-grad.gif" align="right">
+							<img border="0" src="http://image.fcmb.com/images/FCMB New Account Opened/base-strip.gif" width="100%"></td>
+									</tr>
+									</tbody></table></td>
+							</tr>
+
+						</tbody></table>
+					</module>
+
+					<!--row 20 end-->
+
+					<!--row 21 -->
+					<table class="wrapper" width="640" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tbody><tr>
+						<td style="background-color: #4d5568">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+							<tbody><tr>
+								<td height="2" bgcolor="#F3F3F3">
+								<p align="center">
+								<font size="3" color="#FFFFFF"><br>
+&nbsp;</font></p></td>
+							</tr>
+							<tr>
+								<td bgcolor="#F3F3F3">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse; border-spacing: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%" id="table10">
+											<tbody><tr>
+												<td width="152" style="color: #00d5c3; text-decoration: none"><img src="http://image.fcmb.com/images/FCMB New Account Opened/blank(1).gif" height="1" width="1"></td>
+												<td style="color: #00d5c3; text-decoration: none">
+												<a style="color: #00d5c3; text-decoration: none" href="https://www.facebook.com/fcmbmybank">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/fb_nw_.png" editable="true" width="52" height="52"></a></td>
+												<td width="18" style="color: #00d5c3; text-decoration: none"><img src="http://image.fcmb.com/images/FCMB New Account Opened/blank(1).gif" height="1" width="1"></td>
+												<td style="color: #00d5c3; text-decoration: none">
+												<a style="color: #00d5c3; text-decoration: none" href="https://twitter.com/myfcmb">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/twt_nw_.png" editable="true" width="52" height="52"></a></td>
+												<td width="18" style="color: #00d5c3; text-decoration: none"><img src="http://image.fcmb.com/images/FCMB New Account Opened/blank(1).gif" height="1" width="1"></td>
+												<td style="color: #00d5c3; text-decoration: none">
+												<a style="color: #00d5c3; text-decoration: none" href="http://www.linkedin.com/company/55002?trk=tyah">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/LkdIn_nw_.png" editable="true" width="52" height="52"></a></td>
+												<td width="18" style="color: #00d5c3; text-decoration: none"><img src="http://image.fcmb.com/images/FCMB New Account Opened/blank(1).gif" height="1" width="1"></td>
+												<td style="color: #00d5c3; text-decoration: none">
+												<a href="https://www.instagram.com/myfcmb/">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/Ig_nw_.png" editable="true" width="52" height="52"></a></td>
+												<td width="18" style="color: #00d5c3; text-decoration: none"><img src="http://image.fcmb.com/images/FCMB New Account Opened/blank(1).gif" height="1" width="1"></td>
+												<td style="color: #00d5c3; text-decoration: none">
+												<img src="http://image.fcmb.com/images/FCMB New Account Opened/WA_nw_.png" editable="true" width="52" height="52"></td>
+												<td width="152" style="color: #00d5c3; text-decoration: none"><img src="http://image.fcmb.com/images/FCMB New Account Opened/blank(1).gif" height="1" width="1"></td>
+											</tr>
+										</tbody></table></td>
+							</tr>
+							<tr>
+								<td bgcolor="#F3F3F3">&nbsp;<p>&nbsp;</p></td>
+							</tr>
+							<tr>
+								<td height="3" bgcolor="#F3F3F3">
+								<p align="center">
+									<font face="Corbel">
+									<span style="font-size: 12pt; ">
+										<font color="#9297A3">If you have reason to suspect any 
+									unauthorised activity on your account<br>
+										please contact us by sending an email to</font><font color="#FFB81C">&nbsp;</font></span><span style="font-size: 12pt; color: #575756"><a target="_blank" style="color: blue; text-decoration: underline; text-underline: single" href="mailto:frauddesk@fcmb.com"><span style="color: #5C068C; text-decoration: none">frauddesk@fcmb.com</span></a></span></font></p></td>
+							</tr>
+							<tr>
+								<td height="3" bgcolor="#F3F3F3">&nbsp;</td>
+							</tr>
+							<tr>
+								<td height="3" bgcolor="#F3F3F3">
+								<p align="center">
+										<font face="Corbel">
+										<font color="#9297A3">
+									<span style="font-size: 12pt; ">
+									For more information on our products and 
+									services, please call our 24/7 <br>
+										contact 
+										centre on</span></font><span style="font-size: 12pt; color: #EFEFEF"> </span>
+										<font color="#5C068C">
+									<span style="font-size: 12pt; ">
+									07003290000</span></font><span style="font-size: 12pt; color: #5C068C">
+									or&nbsp;012798800</span><span style="font-size: 12pt; color: #EFEFEF"> </span>
+										<font color="#9297A3">
+										<span style="font-size: 12pt; ">or chat with us via</span></font><span style="font-size: 12pt"><br>
+										</span><font color="#5C068C">
+										<span style="font-size: 12pt; ">Whatsapp on 
+									(+234) 090 999 99814</span></font><span style="font-size: 12pt; color: #EFEFEF"> </span>
+										<font color="#9297A3">
+										<span style="font-size: 12pt; "> 
+									or</span></font><span style="font-size: 12pt; color: #EFEFEF">
+										</span><font color="#5C068C">
+										<span style="font-size: 12pt; ">&nbsp;(+234) 090 
+									999 99815.</span></font><span style="font-size: 12pt; "><font color="#EFEFEF"><br>
+										</font><font color="#9297A3">Alternatively send 
+										an email to</font> </span>
+										<span style="color: #5C068C; text-decoration: none; font-size:12pt">
+										<a target="_blank" style="color: #622387; text-decoration: underline; text-underline: single" href="mailto:customerservice@fcmb.com">customerservice@fcmb.com</a></span><font color="#5C068C"><span style="font-size: 12pt"><a target="_blank" style="color: #622387; text-decoration: underline; text-underline: single" href="mailto:customerservice@fcmb.com"><img src="http://image.fcmb.com/images/FCMB New Account Opened/blank(1).gif" height="1" width="1"></a>.</span></font></font></p></td>
+							</tr>
+							<tr>
+								<td height="12" bgcolor="#F3F3F3">&nbsp;</td>
+							</tr>
+							<tr>
+								<td style="text-align: center" bgcolor="#F3F3F3">
+	<font color="#9297A3" size="3" face="Corbel">
+	Copyright © 2017. First City Monument Bank</font></td>
+							</tr>
+							
+							<tr>
+								<td style="text-align: center" bgcolor="#F3F3F3">
+	<br>
+&nbsp;</td>
+							</tr>
+							
+						</tbody></table></td>
+					</tr>
+					</tbody></table>
+					<!--row 21 -->
+
+				
+	</module></modules>
+	
+</body></html>
